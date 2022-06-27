@@ -1,3 +1,6 @@
 [submodule "rkdeveloptool"]
 	path = rkdeveloptool
 	url = https://github.com/rockchip-linux/rkdeveloptool
+[submodule "u-boot"]
+	path = u-boot
+	url = https://github.com/u-boot/u-boot
